@@ -1,0 +1,24 @@
+- Syntax
+
+  [Create a Simple C Program](/Challenges/syntax.c)
+
+- Output 
+
+  [Print Text Output](/Challenges/output.c)
+
+- Variables
+
+  [Calculate the Area of a Rectangle](/Challenges/variables.c)
+
+- Data Types
+
+  [Create a Student Report Card](/Challenges/data_types.c)
+
+- Operators
+
+  [Calculate the Total Cost of an Item](/Challenges/operators.c)
+
+- Booleans
+
+  [Check the Minimum Age](/Challenges/booleans.c)
+
