@@ -22,3 +22,8 @@
 
   [Check the Minimum Age](/Challenges/booleans.c)
 
+- If .... Else
+
+  [Make a Decision with If and Else](/Challenges/if_else.c)
+
+
