@@ -29,3 +29,7 @@
 - Switch
 
   [Fix Customer Order](/Challenges/switch.c)
+
+- While Loop
+
+  [Count from 1 to 5](/Challenges/while_loop.c)
