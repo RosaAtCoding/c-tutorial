@@ -26,4 +26,6 @@
 
   [Make a Decision with If and Else](/Challenges/if_else.c)
 
+- Switch
 
+  [Fix Customer Order](/Challenges/switch.c)
