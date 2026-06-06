@@ -41,7 +41,7 @@ int main() {
 #include <stdio.h>
 
 int main() {
-    int choice = 2;
+    int choice = 1;
 
     // 1 = Coffee
     // 2 = Tea
