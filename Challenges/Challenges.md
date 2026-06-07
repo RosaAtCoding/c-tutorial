@@ -33,3 +33,8 @@
 - While Loop
 
   [Count from 1 to 5](/Challenges/while_loop.c)
+
+- For Loop
+
+  [Count to 5](/Challenges/for_loop.c)
+  
