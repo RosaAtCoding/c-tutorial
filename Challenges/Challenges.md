@@ -37,4 +37,8 @@
 - For Loop
 
   [Count to 5](/Challenges/for_loop.c)
+
+- Arrays
+
+  [Create a Simple Array](/Challenges/arrays.c)
   
