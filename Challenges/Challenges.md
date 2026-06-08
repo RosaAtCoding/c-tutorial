@@ -41,4 +41,7 @@
 - Arrays
 
   [Create a Simple Array](/Challenges/arrays.c)
-  
+
+- Strings
+
+  [Create a Greeting Message](/Challenges/strings.c)
